@@ -81,6 +81,7 @@ onlyMessenger	Only official bridge messenger can finalize
 onlyRemoteBridge	Verifies sender is registered bridge on other chain
 ReentrancyGuard	OpenZeppelin's battle-tested protection
 Ownable2Step	2-step ownership transfer prevents mistakes
+
 📦 Installation
 Prerequisites
 Foundry
@@ -149,7 +150,8 @@ Contract	Ethereum L1	Polygon L2
 UniversalBridge	0xe8681d55585FcDA6a4a39c9a59f39b63fbBa88e8	0x0Ef6a63a16fB21dD8398183a154596953Ce4E835
 Messenger	0x25ace71c97b33cC4724cf772e9b8B8F980f9d3B5	0x25ace71c97b33cC4724cf772e9b8B8F980f9d3B5
 BRVBTC	0x9bc0F4d4B31AdEa0c7Fde6f40a778E4Ce7Bc652d	0xa5c96d77C280B9F4bA13cd4064C4864Cf69a3BCB
-DBTC	0xe972BbB8bB357418131951CcEaec9d8A5993bea2	Deploy with CREATE2
+DBTC	0xe972BbB8bB357418131951CcEaec9d8A5993bea2
+
 📊 Events
 Event	Description
 TokenRegistered	New token added to bridge
@@ -159,6 +161,7 @@ WithdrawalInitiated	L2 → L1 transfer started
 WithdrawalFinalized	L1 release completed
 FeeCollected	Bridge fee collected
 RemoteBridgeSet	Bridge on other chain configured
+
 🧪 Testing
 Run the full test suite:
 
