@@ -28,7 +28,7 @@ This bridge allows the **same token** to exist natively on multiple chains – n
 
 ---
 
-## 🚀 Deployed Contracts
+##  Deployed Contracts
 
 | Chain | Bridge Contract | Messenger Address | BRVBTC Token |
 |-------|-----------------|-------------------|--------------|
