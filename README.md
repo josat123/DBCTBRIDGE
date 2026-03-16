@@ -1,8 +1,6 @@
-# 🌉 Universal Bridge – Cross-Chain Token Bridge
+# Universal Bridge – Cross-Chain Token Bridge
 
 **A secure, EIP-712 based bridge for native cross-chain token transfers between Ethereum L1 and Polygon L2.**
-
-## 🏷️ **Bridge Badges**
 
 | Category | Badges |
 |----------|--------|
