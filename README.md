@@ -35,7 +35,7 @@ This bridge allows the **same token** to exist natively on multiple chains – n
 | Chain | Bridge Contract | Messenger Address | BRVBTC Token |
 |-------|-----------------|-------------------|--------------|
 | **Ethereum L1** | `0xe8681d55585FcDA6a4a39c9a59f39b63fbBa88e8` | `0x25ace71c97b33cC4724cf772e9b8B8F980f9d3B5` | `0x9bc0F4d4B31AdEa0c7Fde6f40a778E4Ce7Bc652d` |
-| **Polygon L2** | `0x0Ef6a63a16fB21dD8398183a154596953Ce4E835` | `0x25ace71c97b33cC4724cf772e9b8B8F980f9d3B5` | `0xa5c96d77C280B9F4bA13cd4064C4864Cf69a3BCB` |
+| **Polygon L2** | `0x0Ef6a63a16fB21dD8398183a154596953Ce4E835` | `0x25ace71c97b33cC4724cf772e9b8B8F980f9d3B5` | `0xa5c96d77C280B9F4bA13cd4064C4864Cf69a3BCB` | `0x5Ea83b4c928Aa4055D02592f3AFE0fE87318598D`  |
 
 **Messenger is the same address on both chains**, ensuring consistent cross-chain communication.
 
