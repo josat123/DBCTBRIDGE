@@ -2,7 +2,6 @@
 
 **A secure, EIP-712 based bridge for native cross-chain token transfers between Ethereum L1 and Polygon L2.**
 
-| Category | Badges |
 |----------|--------|
 | **Security & Audit** | [![Audit: Self](https://img.shields.io/badge/Audit-Self--audited-success)](https://github.com/josat123/universal-bridge/security) [![Security: ReentrancyGuard](https://img.shields.io/badge/Security-ReentrancyGuard-blue)](https://github.com/josat123/universal-bridge) [![Security: Ownable2Step](https://img.shields.io/badge/Security-Ownable2Step-blue)](https://github.com/josat123/universal-bridge) [![Security: EIP-712](https://img.shields.io/badge/Security-EIP--712-blue)](https://eips.ethereum.org/EIPS/eip-712) |
 | **Verification** | [![Contract Verified](https://img.shields.io/badge/Contract-Verified-success)](https://polygonscan.com/address/0x0Ef6a63a16fB21dD8398183a154596953Ce4E835#code) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) |
